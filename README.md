@@ -23,11 +23,11 @@ During the development of this project, I gained:
 ## 🚀 How to Use  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/yourusername/portfolio-website.git  
+   git clone https://github.com/gunanjr/ShadowFox-Internship-Portfolio-.git 
    ```  
 2. Navigate to the project folder:  
    ```bash  
-   cd portfolio-website  
+   cd ShadowFox-Internship-Portfolio- 
    ```  
 3. Open the `index.html` file in your preferred web browser to view the portfolio.  
 
